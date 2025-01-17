@@ -8,5 +8,9 @@ public class Manhattan {
 		// TODO Auto-generated method stub
 
 	}
-
-}
+	public void m7()
+	{
+		System.out.println("Deepawal");
+	
+	
+}}
