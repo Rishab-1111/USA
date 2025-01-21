@@ -2,7 +2,7 @@ package Newyork;
 
 public class Manhattan {
 
-	public static void main(String[] args) { //from c11 c11 dev 2
+	public static void main(String[] args) { //from d11 c11 dev 2
 		
 		System.out.println("2025");
 		// TODO Auto-generated method stub
